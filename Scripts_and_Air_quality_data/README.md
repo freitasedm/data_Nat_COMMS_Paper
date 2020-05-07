@@ -81,7 +81,7 @@ This will generate the figures in the current directory directory *figures* and 
 
 36 secs
 
-## How to run the software on your data
+## How to run the software on our data
 
 Display data in long format with time as POSIXct class, observations, according shown on file figs.R
 
