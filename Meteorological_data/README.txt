@@ -1,3 +1,5 @@
+# Description file for meteorological data.
+
 Data used:
 The synoptic analysis was made using graphs and satellite images plotted by the authors or downloaded in the websites of University of São Paulo or other Brazilian official institutions. They are composed by:
 
