@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588879188409.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2904708610",
+    "id" : "5944ED80",
+    "lastKnownWriteTime" : 1588886005,
+    "last_content_update" : 1588886005649,
+    "path" : "~/Thesis/Spatial_comparison_and_Isolation_index/01_scripts/01_calculate_masp_aqs_mean_difference.R",
+    "project_path" : "01_scripts/01_calculate_masp_aqs_mean_difference.R",
+    "properties" : {
+        "cursorPosition" : "79,0",
+        "scrollLine" : "53"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
