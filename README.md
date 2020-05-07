@@ -1,7 +1,9 @@
-This repository provides data and scripts for visualization and statistical calculations regarding the results of the article "Mobility restrictions and air quality under COVID-19 pandemic in São Paulo, Brazil". 
+
+
+# This repository provides data and scripts for visualization and statistical calculations regarding the results of the article "Mobility restrictions and air quality under COVID-19 pandemic in São Paulo, Brazil". 
 They are organized in 4 directories:
 
-1) Air quality and Mobility data
+1) Spatial comparison and Isolation index
 2) Hospitalization by SARS-Influenza
 3) Meteorological data
 4) Scripts and Air quality data
