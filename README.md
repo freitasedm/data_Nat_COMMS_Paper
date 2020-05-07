@@ -6,6 +6,6 @@ They are organized in 4 directories:
 3) Meteorological data
 4) Scripts and Air quality data
 
-Each directory has it own README file and the procedures to reproduce our results/figures
+Each directory has its own README file and the procedures to reproduce our results/figures
 
 Created by Edmilson Dias de Freitas - 06, April, 2020
